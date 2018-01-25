@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Pablo Carrascal
+name: YoDeEstas50k
 
 # Short bio or description (displayed in the header)
-description: iOS Developer from Spain
+description: Hi! I'm Pablo an iOS Developer from Spain, currently an iOS developer in the Owncloud mobile Team.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/8929738?s=400&u=beec3f1c19c7dd541ae7be5032846a76253fe0cd&v=4
@@ -18,16 +18,16 @@ avatar: https://avatars1.githubusercontent.com/u/8929738?s=400&u=beec3f1c19c7dd5
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: simplepablete@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: pablocarmu
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: pablocarmu
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/7041422/pablo-carrascal 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
